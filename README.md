@@ -26,6 +26,7 @@ VSCode
 ------------
 
 ## District Summary
+
 •	Took two csv files and read them into Pandas. Merged the two datasets.
 
 •	Counted the total number of schools and students.
@@ -35,8 +36,13 @@ VSCode
 ![image](https://github.com/Chemistasaurus/pandas-challenge/assets/132176159/79366ece-541e-4660-86d0-f9aa84c14f5b)
 
   o	Formatted the values in the dataframe.
+
+## School Summary
+
 •	Calculated and store the values for each individual school for per student budget, average math score, average reading score, percent passing score for math and reading as well as overall passing score into one dataframe.
+
   o	Formatted the values in the individual school statistic dataframe.
+  
 •	Sorted the data by % of students that had passing scores in both math and reading. Descending to find the top scorers and ascending to find the bottom scorers.
 
 ![image](https://github.com/Chemistasaurus/pandas-challenge/assets/132176159/8a8b4e63-f4a0-4350-a11f-353fb1a24523)
